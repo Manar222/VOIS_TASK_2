@@ -1,0 +1,21 @@
+{
+  "TripData": {
+    "fromCity": "Chikkamagaluru",
+    "toCity": "Bengaluru",
+    "departureDate": "2024-08-2"
+  },
+  "CustomerDetails": {
+    "mobileNumber": "6789125987",
+    "email": "ahmedd@gmail.com",
+    "name": "ahmed",
+    "gender": "Male",
+    "age": "20",
+    "concession": "GENERAL PUBLIC",
+    "idCard": "PAN",
+    "idNumber": "5454"
+  },
+  "Assertions": {
+    "seatPageMessage": "Please select seat",
+    "searchResultMessage": "Chikkamagaluru"
+  }
+}
